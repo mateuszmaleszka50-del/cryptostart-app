@@ -1,5 +1,5 @@
 # cryptostart-app
-https://.github.io/cryptostart.pl
+https://M1.github.io/cryptostart.pl
 <!DOCTYPE html>
 <html lang="pl">
 <head>
